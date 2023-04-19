@@ -1,0 +1,26 @@
+
+       body{
+        background-color:azure;
+        color:black;
+       }
+        hr{
+            border-style:none;
+            border-top-style:dotted;
+            border-top-color:gray;
+            width:5%;
+            border-width: 3px;
+        }
+      h1{
+        color:purple;
+      }
+      h2{
+        color:purple;
+      }
+     
+      footer{
+        text-align: center;
+      }
+    
+      #heading{
+        color:red;
+      }
